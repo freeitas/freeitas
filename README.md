@@ -1,1 +1,2 @@
-(https://raw.githubusercontent.com/freeitas/github-stats-transparent/output/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeitas)](https://github.com/freeitas/github-readme-stats)
+
