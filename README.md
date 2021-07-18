@@ -1,1 +1,2 @@
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/preitas)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freeitas)](https://github.com/freeitas/github-readme-stats)
+
