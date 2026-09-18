@@ -28,6 +28,6 @@ Background in web performance (Core Web Vitals).
 
 ### Education
 
-Bachelor's Degree, computer science
-Postgraduate, Computer Networks
-Postgraduate, Advanced Cloud Architecture with Azure
+- Bachelor's Degree, computer science
+- Postgraduate, Computer Networks
+- Postgraduate, Advanced Cloud Architecture with Azure
