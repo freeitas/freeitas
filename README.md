@@ -11,12 +11,12 @@ Background in web performance (Core Web Vitals).
 ### Infrastructure as code
 
 **EKS**
-- [aws-eks-final-project](https://github.com/freeitas/aws-eks-final-project) - Multi-cluster management with ArgoCD and a centralized observability cluster
+- [aws-eks-multicluster](https://github.com/freeitas/aws-eks-multicluster) - Multi-cluster management with ArgoCD and a centralized observability cluster
 - [aws-eks-cluster](https://github.com/freeitas/aws-eks-cluster) - EKS with Karpenter, Fargate, Istio, ArgoCD and KEDA
 - [aws-eks-networking](https://github.com/freeitas/aws-eks-networking) - Centralized VPC and networking for the EKS environment
 
 **ECS**
-- [aws-ecs-final-project](https://github.com/freeitas/aws-ecs-final-project) - Multi-region ACTIVE/ACTIVE and ACTIVE/PASSIVE workloads
+- [aws-ecs-multiregion](https://github.com/freeitas/aws-ecs-multiregion) - Multi-region ACTIVE/ACTIVE and ACTIVE/PASSIVE workloads
 - [aws-ecs-service-module](https://github.com/freeitas/aws-ecs-service-module) - Reusable Terraform module for ECS services
 - [aws-ecs-api-gateway](https://github.com/freeitas/aws-ecs-api-gateway) - API Gateway with custom domain over VPC Link
 - [aws-ecs-cluster](https://github.com/freeitas/aws-ecs-cluster) · [aws-ecs-cluster-fargate](https://github.com/freeitas/aws-ecs-cluster-fargate) - EC2-backed and serverless clusters
