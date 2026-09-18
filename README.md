@@ -1,7 +1,7 @@
 ## Guilherme Freitas
 
 Infrastructure and cloud engineer. AWS, Terraform, Kubernetes, networking.
-Background in web performance (Core Web Vitals).
+Background in web performance.
 
 ### Stack
 
